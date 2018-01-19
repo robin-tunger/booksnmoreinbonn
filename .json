@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#7f7f7f",
         "marker-size": "large",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +21,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +36,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "gift"
+        "marker-symbol": "clothing-store"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -66,7 +66,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +81,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "square"
+        "marker-symbol": "library"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "ice-cream"
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "ice-cream"
+        "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
