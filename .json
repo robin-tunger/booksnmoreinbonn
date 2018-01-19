@@ -86,6 +86,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.113937139511108,
+          50.7368065262481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.0987290143966675,
           50.73051676945333
         ]
