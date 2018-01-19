@@ -51,21 +51,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "large",
-        "marker-symbol": "bicycle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.08729475736618,
-          50.735569013313835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
         "marker-symbol": "square"
       },
       "geometry": {
@@ -118,6 +103,21 @@
         "coordinates": [
           7.08717942237854,
           50.735645403948034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.096526920795441,
+          50.739629427207404
         ]
       }
     }
